@@ -7,6 +7,7 @@
 * https://www.infoq.cn/article/2018/03/weibo-quic
 * https://zhuanlan.zhihu.com/p/32560981
 * https://docs.google.com/spreadsheets/d/1D0tW89vOoaScs3IY9RGC0UesWGAwE6xyLk0l4JtvTVg/edit#gid=535093126
+* [gquic homepage](https://www.chromium.org/quic)
 
 ## codes
 
