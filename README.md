@@ -9,6 +9,11 @@
 * https://docs.google.com/spreadsheets/d/1D0tW89vOoaScs3IY9RGC0UesWGAwE6xyLk0l4JtvTVg/edit#gid=535093126
 * [gquic homepage](https://www.chromium.org/quic)
 
+### crypto
+
+* https://tonybai.com/2015/04/30/go-and-https/
+
+
 ## codes
 
 * https://github.com/tencentyun/clb-quic-demo
