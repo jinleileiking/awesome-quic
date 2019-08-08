@@ -12,6 +12,7 @@
 ### crypto
 
 * https://tonybai.com/2015/04/30/go-and-https/
+* https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/
 
 
 ## codes
